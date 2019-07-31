@@ -1,0 +1,13 @@
+Class: light
+
+Attributes:
+color (string)
+brightness (integer)
+illuminated (boolean)
+number_of_bulbs (integer)
+
+Methods:
+flip_switch (changes "illuminated" attribute)
+change_bulb_color (changes "color" attribute)
+remove_bulb (decreases "number_of_bulbs" attribute)
+lower_intensity (decreases "brightness" attribute)
