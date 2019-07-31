@@ -1,0 +1,44 @@
+Become a Turing Student
+
+1 Discover Turing School
+  1.1 Hear about from friend
+    1.1.1 Start conversation with friend
+    1.1.2 Listen to the words about Turing School
+  1.2 Research Turing Online
+    1.2.1 Walk to computer
+    1.2.2 Turn on computer
+    1.2.3 Open internet browser
+    1.2.4 Search Turing
+    1.2.4 Read about Turing on website
+2 Apply to Turing
+  2.1 Navigate to apply section on website
+    2.1.1 scroll to bottom of page
+  2.2 Move cursor over "APPLY NOW"
+  2.3 Click mouse on button
+    2.3.1 flex index finger over mouse button
+  2.4 Fill out Requested information
+    2.4.1 Give Basic Identity and Contact information
+      2.4.1.1 Recall basic info
+      2.4.1.2 type info into boxes on web page
+    2.4.2 Submit work history
+      2.4.2.1 Upload Resume
+    2.4.3 Take Logic quiz
+      2.4.3.1 Answer 8 logic questions
+  2.5 Submit application
+    2.5.1 click submit button at end of application
+3 Get interview
+  3.1 Receive call from Turing requesting interview
+    3.1.1 hear phone ring
+    3.1.2 pick up phone
+    3.1.3 answer phone
+  3.2 Schedule interview
+    3.2.1 Open link received with available time slots
+    3.2.2 select appropriate time slot
+  3.3 Participate in interview
+    3.3.1 Log into interview link on time
+    3.3.2 Hold conversation with interviewer
+4 Receive acceptance
+  4.1 Receive email with acceptance notification
+    4.1.1 open email
+    4.1.2 read the email
+    
