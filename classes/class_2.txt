@@ -1,0 +1,13 @@
+Class: seat
+
+Attributes:
+padded (boolean)
+number_of_legs (integer)
+available_occupancy (integer)
+backing_height (integer)
+
+Method:
+remove_cushion (changes "padded" from true to false)
+break_leg (reduces number_of_legs)
+add_person (decreses 'available_occupancy')
+remove_back (decreases backing_height)
