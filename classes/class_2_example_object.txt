@@ -1,0 +1,13 @@
+Object: Bar stool
+
+Attributes:
+Padded (true)
+number_of_legs (4)
+available_occupancy (1)
+backing_height (0)
+
+Methods:
+remove-cushion (changes "padded" from true to false)
+break_leg (reduces number_of_legs from 4 to 3)
+add_person (reduces available_occupancy from 1 to 0)
+attach_backing (increases backing_height from 0 to 24)
