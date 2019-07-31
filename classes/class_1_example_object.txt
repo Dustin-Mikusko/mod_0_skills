@@ -1,0 +1,13 @@
+Object: Bar light
+
+Attributes:
+color ("yellow")
+brightness (50)
+illuminated (true)
+number_of_bulbs (1)
+
+Methods:
+flip_switch (changes "illuminated" from true to false)
+change_bulb_color (changes color from "yellow" to "green")
+remove_bulb (decreases number_of_bulbs from 1 to 0, changes illuminated from true to false)
+lower_intensity (decreases brightness from 50 to 40)
